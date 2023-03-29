@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.w_25{
+    width: 25%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.container{
+    max-width: 1320px;
+    margin: auto;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: nowrap;
+}
+img{
+    margin-left: 16%;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+    color: black;
+}
+p{
+    color: gray;
+    margin: 15px;
+    text-align: left;
+}

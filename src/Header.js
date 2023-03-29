@@ -4,7 +4,7 @@ import './header.css';
 
 function Header() {
   return (
-    <div>
+    <div className="">
             <div className="d_flex">
                 <div className='ok'>
                 </div>
